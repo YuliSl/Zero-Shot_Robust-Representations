@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######
+os
+
+###### Requirements with Version Specifiers ######
+gdown == 4.7.1
+numpy == 1.23.5
+tensorflow == 2.13.0
+tensorflow_datasets == 4.9.3
+pandas == 1.5.3
+sklearn == 1.2.2
+
+###### Requirements for Plotting ######
+matplotlib >= 3.7.1

@@ -1,8 +1,7 @@
 # Class Distribution Shifts in Zero-Shot Learning: Learning Robust Representations
 
 This repository accompanies the paper
-Class Distribution Shifts in Zero-Shot Learning: Learning Robust Representations:
-https://neurips.cc/virtual/2024/93015
+Class Distribution Shifts in Zero-Shot Learning: Learning Robust Representations.
 
 #### Requirements
 The file `requirements.txt` lists the package requirements. 
